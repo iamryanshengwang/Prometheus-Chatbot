@@ -1,0 +1,1000 @@
+Intel Core i3 Size3 11th(C/L)]  is For i3
+Intel Pentium Gold 2020 Size3(C/L)]  is For pentium
+Intel Celeron 2020 Size3(C/L)]  is For celeron
+Intel Core i9 Size3 11th(C/L)]  is For i9
+Intel Core i7 Size3 11th(C/L)]  is For i7
+Intel Core i5 Size3 11th(C/L)]  is For i5
+PCI Card Holder Kit for RTX3050 4G]  is For 3050 4G
+PCI Card Holder Kit for 3060 ASSY]  is For 3060
+370mm 4pin to 4pin and 6+2pin power cable]  is For 3050 4G\3050 8G\1650SP\1660\3060\6500 and 300w psu
+PCI Card Holder Kit for 1660SP ASSY]  is For 1660sp
+PCI Card Holder Kit for 1650SP]  is For 1650sp
+PCI Card Holder Kit for RX6500 Holder Assy]  is For 6500XT
+PCI Card Holder Kit for RTX3050 8G]  is For 3050 8G
+4GB DDR4 3200 UDIMM]  is 4GX1
+8GB DDR4 3200 UDIMM]  is 8GX1
+16GB DDR4 3200 UDIMM]  is 16GX1
+32GB DDR4 3200 UDIMM]  is 32GX1
+4GB DDR4 3200 UDIMM]  is 4GX2
+8GB DDR4 3200 UDIMM]  is 8GX2
+16GB DDR4 3200 UDIMM]  is 16GX2
+32GB DDR4 3200 UDIMM]  is 32GX2
+L1-17L Slim ODD Bezel Kit]  is For with ODD
+L1-OB M.2 SSD bracket]  is For M.2
+17L 2nd 3.5 HDD\ODD SATA Cable]  is Select  ODD
+M2 2242 SSD HeatSink]  is For 2242
+M2 2280 SSD DFC HeatSink]  is M2 2280 DFC SSD heatsink for 512G
+M2 2280 SSD HS,TSL]  is M2 2280 SSD heatsink for 1T
+L1 wifi bracket]  is For wifi
+T490IAB CMIIT ID label]  is For T490IAB
+W490IAB CMIIT ID label]  is For W490IAB
+5B20U55115 FRU MB B660 Q/Y_PCI E900 DPK]  is For win11
+5B20U55114 FRU MB B660 for NO DPK QT&YTT/W&E900]  is For VM DOS
+Fingerprint Mouse Black_Red Wheel Driver]  is For Fingerprint Mouse
+Colliope USB KB common driver]  is For Colliope USB KB
+Euterpe Wireless KB driver with Fn+Q]  is For Euterpe Wireless KB driver
+AMD Ryzen 7 4000 series label(C/L)]  is For Ryzen 7 4700G
+AMD Ryzen 5 4000 series label(C/L)]  is For Ryzen 5 4600G
+AMD Ryzen 3 4000 series label(C/L)]  is For Ryzen 3   4300G
+AMD Cezanne Ryzen7 5000series(C/L)]  is For Ryzen7 5400G
+AMD Cezanne Ryzen5 5000series(C/L)]  is For Ryzen5 5600G
+AMD Cezanne Ryzen3 5000series(C/L)]  is For Ryzen3 5300G
+OB VGA driver]  is For INTEGRATED/RTX1650/RTX1660/RTX6500XT
+AMD VR Heatsink for Cez]  is For RX550X/GTX1650/1660/RX6500XT/RX6400
+PCI Holder Kit for R550X /GTX1660S]  is For RX550X /GTX1660S
+TW 8025 Front system fan]  is For GTX 1650S/gGTX 1660S/RX6500XT
+PCI Holder Kit for GTX1650S]  is For GTX1650S
+HDMI 塑胶盖]  is For 1650/ 1650SP
+VGA 塑胶盖]  is For 1650/1650SP
+PCI Holder Kit for RX6500XT]  is For RX6500XT
+ODD  SATA cable 310mm 1 latch]  is For ODD
+ODD  SATA power cable(HDD_PWR290mm+ODD_PWR180mm)]  is For ODD
+Slim ODD Bezel Kit for YT]  is For ODD
+M2 2242 SSD HS]  is For 2242  SSD
+M2 2280 SSD DFC HS]  is For M.2 2280 512G
+M2 2280 SSD HS]  is For 2280  1TG SSD
+Card Reader  Holder Kit]  is For Card Reader
+Dummy SRRC CMIIT ID: 2017AP7856]  is For wifi
+5B20U54829 FRU MB WIN  DPK]  is For WIN10/WIN11 OS and  Integrated Graphics
+5B20U54966 FRU MB WIN  DPK W/Heatsink]  is For win10/WIN11 and RX550X RTX3050 /1650s /1660s/6500XTRX6400
+5B20U54830 FRU MB  NO DPK]  is For DOS and Integrated Graphics
+5B20U54967 FRU MB  NO DPK  W/Heatsink]  is For DOS and RX550X RTX3050 /1650s /1660s/6500XTRX6400
+Calliope USB KB_Black driver]  is For Calliope USB KB
+USB Fingerprint Mouse Driver]  is For USB Fingerprint Mouse
+YT M460 13L Packing]  is For M460
+TN P600 13L Packing]  is For P600
+Dummy PN for TC neo config. Printing on carton lbl]  is For P600
+Baying Online Consultant（for YT DT）]  is For YT and 8迪
+百应专属在线顾问for TC neo(1年)]  is For neo and 8迪
+Intel Core i3 Size3 11th(C/L)]  is For i3
+Intel Pentium Gold 2020 Size3(C/L)]  is For pentium
+Intel Celeron 2020 Size3(C/L)]  is For celeron
+Intel Core i9 Size3 11th(C/L)]  is For i9
+Intel Core i7 Size3 11th(C/L)]  is For i7
+Intel Core i5 Size3 11th(C/L)]  is For i5
+PCI Card Holder Kit for RTX3050 4G&1660super & RX550X]  is For 1660sp、3050 4G
+PCI Card Holder Kit for 3060 ASSY 13L]  is For 3060 P600
+PCI Card Holder Kit for 1650SP]  is For 1650sp
+PCI Card Holder Kit for RTX3050 8G]  is For 3050 8g
+PCI Card Holder Kit for RX6500XT]  is For 6500xt
+4GB DDR4 3200 UDIMM]  is For 4GX1
+8GB DDR4 3200 UDIMM]  is For 8GX1
+16GB DDR4 3200 UDIMM]  is For 16GX1
+4GB DDR4 3200 UDIMM]  is For 4GX2
+8GB DDR4 3200 UDIMM]  is For 8GX2
+16GB DDR4 3200 UDIMM]  is For 16GX2
+L1-OB M.2 SSD bracket]  is For M.2
+L1-Optioanl Slim ODD Bezel Kit,13L SMB M460]  is For ODD M460
+L1-Optioanl Slim ODD Bezel Kit,13L SMB P600]  is For ODD P600
+M2 2242 SSD HeatSink]  is For M.2 2242 gen3
+M2 2280 SSD DFC HeatSink]  is For 512G
+M2 2280 SSD HS]  is For 1T
+3.5 HDD\ODD SATA Cable]  is For odd
+L1-Optional-Card Reader -HOLDER KIT]  is For card reader
+L1 wifi bracket]  is For wifi
+M460IAB CMIIT ID label]  is For M460IAB
+P600IAB CMIIT ID label]  is For P600IAB
+5B20U55103 FRU MB B660 E700&YTM DPK]  is For win11
+5B20U55102 FRU MB B660 E700&YTM NON DPK]  is For vm dos
+Colliope USB KB common driver]  is For Colliope USB KB
+Fingerprint Mouse Black_Red Wheel Driver]  is For Fingerprint Mouse
+Euterpe Wireless KB driver with Fn+Q]  is For Euterpe Wireless KB
+YT Package 8.2L]  is must select one
+L1 COPT Mouse Pad]  is must select one
+BIOS Chinese language setting flag]  is must select one
+YTM400IRR 8.2L B760 TE flag]  is must select one
+Intel Core i3 Size3 11th(C/L)]  is For I3 CPU
+Intel Core i7 Size3 11th(C/L)]  is For I7 CPU
+Intel Core i5 Size3 11th(C/L)]  is For I5 CPU
+Intel Inside BLU label(2020) S3]  is For Intel 300 CPU
+8GB DDR5 5600 UDIMM]  is For 8GX1
+16GB DDR5 5600 UDIMM]  is For 16GX1
+8GB DDR5 5600 UDIMM]  is For 8GX2
+16GB DDR5 5600 UDIMM]  is For 16X2
+M2 SSD Passive HS]  is For 1TB 2280 M.2
+7.4L 2242 thermal pad]  is For 512GB 2280 M.2
+5B21D18249 FRU MB mATX B760 YTM400 DPK]  is For Win OS
+5B21D18250 FRU MB mATX B760 YTM400 No DPK]  is For Non WIN OS
+Driver for USB AI Calliope KYB Gen2.5 with FN+Q LC]  is For WINDOWS OS and USB AI Calliope KYB
+QT/ YT Package 7.4L]  is must select one
+YTM400IRB 7.4L B660 TE flag]  is must select one
+L1 COPT Mouse Pad]  is must select one
+BIOS Chinese language setting flag]  is must select one
+Intel Core i7 Size3 11th(C/L)]  is For i7
+Intel Core i5 Size3 11th(C/L)]  is For i5
+Intel Core i3 Size3 11th(C/L)]  is For i3
+Intel Pentium Gold 2020 Size3(C/L)]  is For Pentium
+Intel Celeron 2020 Size3(C/L)]  is For Celeron
+Intel Inside BLU label(2020) S3]  is For intel 300 CPU
+4GB DDR4 3200 UDIMM]  is For 4GBX1
+8GB DDR4 3200 UDIMM]  is For 8GBX1
+8GB DDR4 3200 UDIMM_D]  is For D-8GBX1
+16GB DDR4 3200 UDIMM]  is For 16GBX1
+4GB DDR4 3200 UDIMM]  is For 4GBX2
+8GB DDR4 3200 UDIMM]  is For 8GBX2
+8GB DDR4 3200 UDIMM_D]  is For D-8GBX2
+16GB DDR4 3200 UDIMM]  is For 16GBX2
+L1 PN，3.5'' HDD Screw and Grommet Kit]  is Select with 3.5 HDD
+7.4L 2242 thermal pad]  is For 2280 SSD
+YTM400IRB CMIIT ID：2021AP14682]  is For WIFI
+5B20U55305 FRU MB mATX B660 YTM400IRB No DPK]  is For Dos RPL MB
+5B20U55304 FRU MB mATX B660 YTM400IRB DPK]  is For windows RPL MB
+5B20U55554 FRU MB mATX B660 YTM400 RPLR No DPK]  is For Dos RPL-R MB
+5B20U55553 FRU MB mATX B660 YTM400 RPLR DPK]  is For windows RPL-R MB
+Driver for USB calliope Black Keyboard TY]  is For USB Calliope KYB
+SMB Tiny PKG for YTM400IAQ]  is must select
+YTM400IAQ Test group PN]  is must select
+BIOS Chinese language setting flag]  is must select
+Crete Direct Current Print Logo]  is must select
+Intel Core i7 Size3 11th(C/L)]  is For i7
+Intel Core i5 Size3 11th(C/L)]  is For i5
+Intel Core i3 Size3 11th(C/L)]  is For i3
+35W Normal cooler]  is For CPU
+8GB DDR4 3200 SODIMM]  is For 8GB X1
+16GB DDR4 3200 SODIMM]  is For 16GB X1
+8GB DDR4 3200 SODIMM]  is For 8GB X2
+16GB DDR4 3200 SODIMM]  is For 16GB X2
+MI system Label 90W Adapter YTM400IAQ]  is For 90W
+MI system Label 135W Adapter YTM400IAQ]  is For 135W
+CMIIT for YTM400IAQ]  is For WIFI
+MB FRU Label for WIN DPK]  is For Win OS
+CEL EG1 Label]  is must select one
+QR Code Label]  is must select one
+Lenovo DT Carton label]  is must select one
+Chassis Seal Label 48*15mm_N]  is must select one
+Product info label_black(China)]  is must select one
+QT/ YT Package 7.4L]  is must select one
+YT 7.4L B660 TE flag]  is must select one
+L1 COPT Mouse Pad]  is must select one
+DT PRC Common User Guide V2.9]  is must select one
+SWG V1.2 SC]  is must select one
+Intel Core i9 Size3 11th(C/L)]  is For i9
+Intel Core i7 Size3 11th(C/L)]  is For i7
+Intel Core i5 Size3 11th(C/L)]  is For i5
+Intel Core i3 Size3 11th(C/L)]  is For i3
+Intel Pentium Gold 2020 Size3(C/L)]  is For Pentium CPU
+Intel Celeron 2020 Size3(C/L)]  is For Celeron CPU
+Driver for YTM400IAB DG1 Dummy PN]  is For DG1
+4GB DDR4 3200 UDIMM]  is 4GB
+8GB DDR4 3200 UDIMM]  is 8GB
+16GB DDR4 3200 UDIMM]  is 16GB
+4GB DDR4 3200 UDIMM]  is 2X4GB
+8GB DDR4 3200 UDIMM]  is 2X8GB
+16GB DDR4 3200 UDIMM]  is 2X16GB
+Level 1 PN, 2242 ULCOD assy, Kit]  is Select with M.2 2242 SSD
+L1 PN,3.5'' HDD Screw and Grommet Kit]  is Select with 3.5 HDD
+L1 COPT Dummy SRRC CMIIT ID：2021AP14682]  is For wifi
+5B20U54868 FRU MB mATX B660 YT M400 DPK]  is For Win11 OS
+5B20U54869 FRU MB mATX B660 YT M400 No DPK]  is For Dos
+Driver for USB calliope Black Keyboard TY]  is For USB Calliope KYB
+Driver for USB calliope Black Keyboard TY]  is Select with USB Calliope KB
+LC Rating MI 220V~, 10A, 50Hz]  is For 750w
+LC Rating MI 220V~, 7A, 50Hz]  is For 500w
+LC Rating MI 220V~, 5A, 50Hz]  is For 300w
+LC Rating MI 220V~, 3A, 50Hz]  is For 180w
+Intel Core i3 Size3 11th(C/L)]  is For i3
+Intel Core i7 Size3 11th(C/L)]  is For i7
+Intel Core i5 Size3 11th(C/L)]  is For i5
+Intel Pentium Gold 2020 Size3(C/L)]  is For pentium
+Intel Celeron 2020 Size3(C/L)]  is For celeron
+PCI Card Holder Kit for RTX3050 8G]  is For 3050
+PCI Card Holder Kit for 3060 12G ASSY]  is For 3060
+VGA 口橡胶盖 Foxconn]  is only for GFX and F xxxxf CPU！
+HDMI 口橡胶盖 Foxconn]  is only for GFX and F xxxxf CPU！
+PCI Card Holder Kit for 1660SP ASSY]  is For 1660SP
+DT 8025 front sys fan]  is For 1660sp、3050、3060、4060ti、rx7600
+370mm 4pin to 4pin and 6+2pin power cable]  is For 3050、1660sp and 300w psu、奔腾、赛扬、i3、i5
+PCI Card Holder Kit for 4060Ti@8G/D6/3DP/H]  is For 4060ti
+PCI Card Holder Kit for RX7600]  is For RX7600
+4GB DDR4 3200 UDIMM]  is 4GX1
+8GB DDR4 3200 UDIMM]  is 8GX1
+16GB DDR4 3200 UDIMM]  is 16GX1
+32GB DDR4 3200 UDIMM]  is 32GX1
+4GB DDR4 3200 UDIMM]  is 4GX2
+8GB DDR4 3200 UDIMM]  is 8GX2
+16GB DDR4 3200 UDIMM]  is 16GX2
+32GB DDR4 3200 UDIMM]  is 32GX2
+M2 2280 SSD DFC HeatSink]  is For 512
+L1-OB M.2 SSD bracket]  is For m.2
+L1-17L Slim ODD Bezel Kit]  is For odd
+17L 2nd 3.5 HDD\ODD SATA Cable]  is For odd
+M2 2280 SSD HeaSink]  is For 1T
+L1 wifi bracket]  is For wifi
+YT T4900kIRB CMIIT ID label]  is For wifi
+"5B20U55381 Non-DPK	FRU MB B760 Q/Y_PCI E900]  is For vm dos"
+"5B20U55382	 DPK FRU MB B760 Q/Y_PCI E900]  is For win11"
+Colliope USB KB common driver]  is For Colliope USB KB and win11
+Euterpe Wireless KB driver with Fn+Q]  is For Euterpe Wireless KB and win11
+LC Rating MI 220V~, 5A, 50Hz]  is For 380w
+LC Rating MI 220V~, 4A, 50Hz]  is For 260w、310w
+LC Rating MI 220V~, 3A, 50Hz]  is For 180w
+Intel Core i7 Size3 11th(C/L)]  is For i7
+Intel Core i5 Size3 11th(C/L)]  is For i5
+Intel Core i3 Size3 11th(C/L)]  is For i3
+Intel Inside BLU label(2020) S3]  is For intel 300
+VGA 口橡胶盖 Foxconn]  is only for GFX and F xxxxf CPU！
+DP 口橡胶盖 Foxconn]  is only for GFX and F xxxxf CPU！
+HDMI 口橡胶盖 Foxconn]  is only for GFX and F xxxxf CPU！
+PCI Card Holder Kit for RTX3050 6G]  is For 3050
+PCI Card Holder PCP@RX 6600 LE@8G/D6/3DP/H]  is For 6600
+8GB DDR5 5600 UDIMM]  is For 8G
+16GB DDR5 5600 UDIMM]  is For 16G
+32GB DDR5 5600 UDIMM]  is For 32G
+8GB DDR5 5600 UDIMM]  is For 8G*2
+16GB DDR5 5600 UDIMM]  is For 16G*2
+32GB DDR5 5600 UDIMM]  is For 32G*2
+M2 2280 SSD Heatsink]  is For 1T
+M2 2280 512G SSD Thermal pad]  is For 512G
+L1-Optional-Card Reader -HOLDER KIT]  is For card reader
+YT M460IRR CMIIT ID label]  is For wifi
+FRU MB B760 DPK YT M460IRR/P900 light]  is For win11
+FRU MB B760 Non-DPK YT M460IRR/P900 light]  is For vm dos
+Colliope USB KB G2.5 common driver]  is For Colliope USB KB and win11
+Eos_Gen3 2.4G KB driver with Fn+Q]  is For EOS KB and win11
+LC Rating MI 220V~, 5A, 50Hz]  is For 380w
+LC Rating MI 220V~, 4A, 50Hz]  is For 260w、310w
+LC Rating MI 220V~, 3A, 50Hz]  is For 180w
+Intel Core i3 Size3 11th(C/L)]  is For i3
+Intel Core i7 Size3 11th(C/L)]  is For  i7
+Intel Core i5 Size3 11th(C/L)]  is For  i5
+Intel Pentium Gold 2020 Size3(C/L)]  is For pentium
+Intel Celeron 2020 Size3(C/L)]  is For celeron
+PCI Card Holder Kit for 1660super]  is For 1660sp
+PCI Card Holder Kit for RTX3050 8G]  is For 3050
+VGA 口橡胶盖 Foxconn]  is only for GFX and F xxxxf CPU！
+DP 口橡胶盖 Foxconn]  is only for GFX and F xxxxf CPU！
+HDMI 口橡胶盖 Foxconn]  is only for GFX and F xxxxf CPU！
+4GB DDR4 3200 UDIMM]  is For 4GX1
+8GB DDR4 3200 UDIMM]  is For 8GX1
+16GB DDR4 3200 UDIMM]  is For 16GX1
+4GB DDR4 3200 UDIMM]  is For 4GX2
+8GB DDR4 3200 UDIMM]  is For 8GX2
+16GB DDR4 3200 UDIMM]  is For 16GX2
+L1-OB M.2 SSD bracket]  is For M.2
+L1-Optioanl Slim ODD Bezel Kit]  is For ODD
+3.5 HDD\ODD SATA Cable]  is For ODD
+M2 2280 SSD DFC HeatSink]  is For 512
+M2 2280 SSD HeaSink]  is For 1T
+L1-Optional-Card Reader -HOLDER KIT]  is For card reader
+L1 wifi bracket]  is For wifi
+YT M460IRB CMIIT ID label]  is For wifi
+FRU MB B760 N50t/YTM/P600 Non-DPK For LC]  is For vm dos
+FRU MB B760 N50t/YTM/P600 DPK FOR LC]  is For win11
+Colliope USB KB common driver]  is For Colliope USB KB and win11
+Euterpe Wireless KB driver with Fn+Q]  is For Euterpe Wireless KB and win11
+QT/ YT Package 7.4L]  is For base
+Enable tpm key]  is For base
+BIOS Chinese language setting flag]  is For base
+Product info label_black(China)]  is For base
+YT M400 ACH WWTE process Flag]  is For base  WWTE
+MFG dummy PN for enable RPMC]  is For base RPMC
+HDD LED Dummy  PN for YT]  is For Base WWTE
+OB VGA Driver&APP]  is For UMA
+4GB DDR4 3200 SoDIMM]  is For 4G*2
+8GB DDR4 3200  SoDIMM]  is For 8G*1
+16GB DDR4 3200 SoDIMM]  is For 16G*1
+8GB DDR4 3200  SoDIMM]  is For 8G*2
+16GB DDR4 3200 SoDIMM]  is For 16G*2
+L1 PN,3.5'' HDD Screw and Grommet Kit]  is For  hdd
+M.2 2280 SSD Thermal Pad]  is For 2280 SSD
+Level 1 PN, Card reader bracket Assy]  is For card reader
+WiFi cable & Cover]  is For wifi
+YT M400ACH  CMIIT ID:2021AP14682]  is For WIFI
+5B20U55230 WINDPK for MB R5 5600H]  is For windows
+5B20U55231 NODPK for R5 5600h]  is For  DOS
+Calliope USB KB driver]  is For USB KYB
+PKG Lenovo Yoga Portal​-HEC]  is For base
+dummy PN for Install 4 foot pads on the bottom of the machine]  is For all
+Enable tpm key]  is For Windows except PRC
+BIOS Chinese language setting flag]  is For PRC
+LI Rating MI 100-127V~, 5A; 200-240V~, 2.5A, 50/60Hz]  is For USA \Canada
+LC Rating MI 220V~, 2.5A, 50Hz]  is For china
+HEC Test group PN]  is For base
+Intel Core i7 Size3 11th(C/L)]  is For i7
+TinyPro I RPL-R D-FanCooler,AVC]  is For i7
+16GB 5600 DDR5 SODIMM]  is For 16GB x2
+WiFi cover and screw]  is For wifi
+YOGA Portal​-HEC CMIIT ID]  is For wifi 6e mow and china
+MB FRU label Q670 YOGA Portal WW WIN DPK]  is For WIN DPK
+Carton-WS Tiny6-wi ODD-LI-B WW]  is For ODD is selected except Chinese mainland
+Carton-WS Tiny6-wi ODD-LI-B PRC]  is For ODD is selected Chinese mainland
+MI Vesa mount bracket only without ODD]  is If select Vesa mount but not select ODD, then need derive this MI
+L1 COPT Mexico NOM mark carton label LIPC LI]  is For all config
+L1 COPT European CE mark carton label]  is For all config
+L1 COPT China CCC mark carton label]  is For all config
+TCO markcarton lbl]  is For all config
+Dummy PN to announce TIO MT for LI (TIO common)  LI]  is For LEGO
+BIOS TCO logo Dummy PN]  is For all config
+New USB ODD BOX w/ cable kit for Tiny]  is For ODD
+L1 COPT China CCC mark carton label MTY]  is For all config
+Dummy PN for L1 COPT China CCC mark carton label LMH]  is For all config
+MI System Label 230W Adapter P340 WS]  is For 230W adapter
+MI System Label 170W Adapter P340 WS]  is For 170W adapter
+G_170w_ AIO UMA and TDT IND BIS]  is For 170W adapter+India
+H_230w_ AIO UMA and TDT IND BIS]  is For 230W adapter+India
+Intel Core i3 Size3 11th(C/L)]  is For I3 CPU
+Intel Core i9 Size3 11th(C/L)]  is For I9 vpro CPU+non-vpro wifi
+Intel Core i7 Size3 11th(C/L)]  is For i7 vpro CPU+non-vpro wifi
+Intel Core i5 Size3 11th(C/L)]  is For i5 non-vpro cpu or i5 vpro CPU+non-vpro wifi
+Intel Core i9 vPro S3 12th(C/L)]  is For I9 vpro CPU+vpro wifi/ no wifi
+Intel Core i7 vPro S3 12th(C/L)]  is For i7 vpro CPU+vpro wifi/ no wifi
+Intel Core i5 vPro S3 12th(C/L)]  is For i5 vpro CPU+vpro wifi/ NO wifi
+P360 Tiny GPU Self-Insurance]  is For T1000
+8GB 4800 DDR5 SODIMM]  is For single 8G
+16GB 4800 DDR5 SODIMM]  is For single 16G
+32GB 4800 DDR5 SODIMM]  is For single 32G
+8GB 4800 DDR5 SODIMM]  is For double 8G
+16GB 4800 DDR5 SODIMM]  is For double 16G
+32GB 4800 DDR5 SODIMM]  is For double 32G
+Intel AX201NGW  label for Japan]  is For AX201 japan
+Intel AX201NGW  label for EU]  is For AX201 EU
+Intel AX201NGW  label for Israel]  is For AX201 Israel
+Intel AX201NGW  label for Brazil and RN]  is For AX201 Brazil
+Intel AX201NGW  label for USA/Taiwan/Canada/CA Group：(Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Republic Dominican)]  is For AX201 USA/Taiwan/Canada/CA Group：(Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Republic Dominican)
+Intel AX201NGW  label for Korea]  is For AX201 Korea
+Intel AX201NGW label for south Africa]  is For AX201 south Africa
+Intel AX201NGW  label for Malaysia]  is For AX201 Malaysia
+Intel AX201NGW  label for Argentina]  is For AX201 Argentina
+Intel AX201NGW label for UAE]  is for AX201 ship Saudi Arabia and Africa UK and UAE for T model（MT:30AC/30CC） ship UAE only for R model（MT:30BC/30DC）
+AX211NGW Japan label]  is For AX211 Japan
+AX211NGW EU 5GHz label for EU+EFTA+Turkey+Morocco and Tunisia]  is For AX211 EU
+AX211NGW Brazil Label]  is For AX211 Brazil
+AX211NGW USA/Taiwan/Canada/CA Label]  is For AX211 USA/Taiwan/Canada/CA Group：(Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Republic Dominican)
+AX211NGW Korea Label]  is For AX211 Korea
+AX211NGW South Africa Label]  is For AX211 south Africa
+AX211NGW Malaysia label]  is For AX211 Malaysia
+AX211NGW label for Argentina]  is For AX211 Argentina
+UAE_AX211NGW label(PL)]  is For AX211 ship Saudi Arabia and Africa UK and UAE for T model（MT:30AC/30CC） ship UAE only for R model（MT:30BC/30DC）
+RTL8852BE Japan label]  is For 8852BE Japan
+RTL8852BE EU 5GHz label for EU+EFTA+Turkey+Morocco and Tunisia]  is For 8852BE EU
+RTL8852BE Brazil Label]  is For 8852BE Brazil
+RTL8852BE USA/Taiwan/Canada/CA Label]  is For 8852BE USA/Taiwan/Canada/CA Group：(Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Republic Dominican)
+RTL8852BE Korea Label]  is For 8852BE Korea
+RTL8852BE South Africa Label]  is For 8852BE south Africa
+RTL8852BE Malaysia label]  is For 8852BE Malaysia
+RTL8852BE label for Argentina]  is For 8852BE Argentina
+UAE_RTL8852BE label(PL)]  is For 8852BE ship Saudi Arabia and Africa UK and UAE for T model（MT:30AC/30CC） ship UAE only for R model（MT:30BC/30DC）
+MT7922A22M(RZ616) USA Label]  is For RZ616 USA/Taiwan/Canada/CA Group：(Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Republic Dominican)
+MT7922A22M(RZ616) Korea Label]  is For RZ616 Korea
+MT7922A22M(RZ616) Japan label]  is For RZ616 japan
+MT7922A22M(RZ616)  EU 5GHz label for EU+EFTA+Turkey+Morocco and Tunisia]  is For RZ616 EU
+MT7922A22M(RZ616)  Brazil Label]  is For RZ616 Brazil
+MT7922A22M(RZ616) Malaysia label]  is For RZ616 Malaysia
+MI for BCM 5720 Lan card]  is For Broadcom NetXtreme 2-port RJ45 lan card
+MI for BCM 5719 Lan card]  is For For Broadcom NetXtreme 4-port RJ45 lan card
+Enable tpm key]  is For windows OS
+Non Windows OS Common Manufacturing Instructions-Security Boot Off]  is For ubuntu
+MB FRU Label for NO DPK LI]  is For no OS/Ubuntu except Chinese mainland
+MB FRU Label for WIN DPK LI]  is For Windows OS except Chinese mainland
+MB FRU Label for NO DPK DIS DTPM LI]  is For no OS/Ubuntu Chinese mainland
+MB FRU Label for WIN DPK DIS DTPM LI]  is For Windows OS Chinese mainland
+HW - DVD RW - Power2Go Win11]  is For Windows os+Rambo ODD
+HW - DVD Drive - PowerDVD Win11]  is For Windows OS +rom/Rambo ODD
+HW - DVD RW - Power2Go Win10]  is For DG os+Rambo ODD
+HW - DVD Drive - PowerDVD Win10]  is For DG OS +rom/Rambo ODD
+Lenovo Calliope 2.4G Keyboard-Gen2 without Fn+Q  driver dummy PN]  is For wireless KB MS
+Lenovo Calliope USB Keyboard-Gen2 without Fn+Q driver]  is For calliope USB KYB
+USB Fingerprint Mouse Black driver]  is For fingerprint mouse
+Carton-WS Tiny wo ODD  for WW]  is For no ODD except Chinese mainland
+Carton-WS Tiny6-wi ODD-LI-B WW]  is For ODD except Chinese mainland
+Carton-WS Tiny wo ODD for WW logo-less]  is For no ODD logoless base except Chinese mainland
+Carton-WS Tiny6-wi ODD-LI-B WW logo-less]  is For ODD logoless base except Chinese mainland
+Carton-WS Tiny wo ODD for PRC]  is For For no ODD Chinese mainland
+Carton-WS Tiny6-wi ODD-LI-B PRC]  is For ODD Chinese mainland
+Carton-WS Tiny wo ODD for PRC logo-less]  is For no ODD logoless base Chinese mainland
+Carton-WS Tiny6-wi ODD-LI-B PRC logo-less]  is For ODD logoless base Chinese mainland
+MI Vesa mount bracket only without ODD]  is If select Vesa mount but not select ODD, then need derive this MI
+L1 COPT Mexico NOM mark carton label LIPC LI]  is For all config
+L1 COPT European CE mark carton label]  is For all config
+L1 COPT China CCC mark carton label]  is For all config
+Workstation BIS mark PN LIPC]  is For all config
+Ukraine Carton Label]  is For all config
+India BIS mark label for Workstation for MTY]  is For all config
+TCO markcarton lbl]  is For all config
+BIOS TCO logo Dummy PN]  is For all config
+Mexico Energy Label P360 WS tiny]  is For all config
+P360Tiny Russia label]  is For all config
+New USB ODD BOX w/ cable kit for Tiny]  is For ODD
+L1 COPT China CCC mark carton label MTY]  is For all config
+Dummy PN for L1 COPT China CCC mark carton label LMH]  is For all config
+WS Blank carton label for OEM used]  is For all config
+Dummy PN for Workstation OEM combine label]  is For all config
+UAE EQM mark label(P/L) for P340 OEM]  is For all config
+India BIS mark label for Workstation for LMH]  is For all config
+Indonesia rating label for P340 OEM]  is For all Indonesia
+France_TRIMAN label(P/L)]  is For all config
+Italy Env label]  is For all
+MI System Label 230W Adapter P340 WS]  is For 230W adapter
+MI System Label 170W Adapter P340 WS]  is For 170W adapter
+G_170w_ AIO UMA and TDT IND BIS]  is For 170W adapter
+H_230w_ AIO UMA and TDT IND BIS]  is For 230W adapter
+Intel Core i3 Size3 11th(C/L)]  is For I3 CPU
+Intel Core i9 Size3 11th(C/L)]  is For I9 vpro CPU+non-vpro wifi
+Intel Core i7 Size3 11th(C/L)]  is For i7 vpro CPU+non-vpro wifi
+Intel Core i5 Size3 11th(C/L)]  is For i5 non-vpro cpu or i5 vpro CPU+non-vpro wifi
+Intel Core i9 vPro S3 12th(C/L)]  is For I9 vpro CPU+vpro wifi/ no wifi
+Intel Core i7 vPro S3 12th(C/L)]  is For i7 vpro CPU+vpro wifi/ no wifi
+Intel Core i5 vPro S3 12th(C/L)]  is For i5 vpro CPU+vpro wifi/ NO wifi
+P360 Tiny GPU Self-Insurance]  is For T1000
+8GB 4800 DDR5 SODIMM]  is For single 8G
+16GB 4800 DDR5 SODIMM]  is For single 16G
+32GB 4800 DDR5 SODIMM]  is For single 32G
+8GB 4800 DDR5 SODIMM]  is For double 8G
+16GB 4800 DDR5 SODIMM]  is For double 16G
+32GB 4800 DDR5 SODIMM]  is For double 32G
+AX201NGW_UAE(P/L) OEM]  is For AX201 wifi card
+AX201NGW OEM wifi label （CL）]  is For AX201 wifi card
+Intel AX201 WIFI MFG Printing Label OEM(PL)]  is For AX201 wifi card
+AX211NGW OEM wifi label （CL）]  is For AX211 wifi card
+Intel AX211 WIFI MFG Printing Label OEM(PL)]  is For AX211 wifi card
+UAE_AX211NGW label OEM]  is For AX211 wifi card
+RTL8852BE OEM wifi label （CL）]  is For 8852BE wifi card
+RTL8852BE WIFI MFG Printing Label OEM(PL)]  is For 8852BE wifi card
+UAE_RTL8852BE label OEM]  is For 8852BE wifi card
+MI for BCM 5720 Lan card]  is For Broadcom NetXtreme 2-port RJ45 lan card
+MI for BCM 5719 Lan card]  is For For Broadcom NetXtreme 4-port RJ45 lan card
+Enable tpm key]  is For Windows os
+Non Windows OS Common Manufacturing Instructions-Security Boot Off]  is For ubuntu
+MB FRU Label for NO DPK LI]  is For NO OS/Ubuntu except Chinese mainland
+MB FRU Label for WIN DPK LI]  is For Windows OS except Chinese mainland
+MB FRU Label for IOT DPK LI]  is For win10 IOT OS except Chinese mainland
+MB FRU Label for NO DPK DIS DTPM LI]  is For no SO/Ubuntu Chinese mainland
+MB FRU Label for WIN DPK DIS DTPM LI]  is For Windows OS Chinese mainland
+MB FRU Label for IOT DPK DIS DTPM LI]  is For win10 IOT OS Chinese mainland
+HW - DVD RW - Power2Go Win11]  is For Windows os+Rambo ODD
+HW - DVD Drive - PowerDVD Win11]  is For Windows OS +rom/Rambo ODD
+HW - DVD RW - Power2Go Win10]  is For DG os+Rambo ODD
+HW - DVD Drive - PowerDVD Win10]  is For DG OS +rom/Rambo ODD
+Lenovo Calliope 2.4G Keyboard-Gen2 without Fn+Q  driver dummy PN]  is For wireless KB MS+Windows OS
+Lenovo Calliope USB Keyboard-Gen2 without Fn+Q driver]  is For Lenovo Calliope USB Keyboard+Windows OS
+USB Fingerprint Mouse Black driver]  is For USB Fingerprint Mouse+Windows OS
+Lenovo Calliope 2.4G Keyboard-Gen2 without Fn+Q  driver dummy PN for WIN10 IOT]  is For wireless KB MS+IOT OS
+Lenovo Calliope USB Keyboard-Gen2 without Fn+Q driver for win10 IOT]  is For Lenovo Calliope USB Keyboard+IOT OS
+USB Fingerprint Mouse Black driver  for win10 IOT]  is For USB Fingerprint Mouse+IOT OS
+Carton-WS Tiny wo ODD for WW logo-less]  is For logo-less base WW
+Carton-WS Tiny wo ODD for PRC logo-less]  is For logo-less base PRC
+MI Vesa mount bracket only without ODD]  is For VESA Mount
+L1 COPT Mexico NOM mark carton label LIPC LI]  is For all
+L1 COPT European CE mark carton label]  is For all
+L1 COPT China CCC mark carton label]  is For all
+Dummy PN for L1 COPT China CCC mark carton label LMH]  is For all
+TCO markcarton lbl]  is For all
+BIOS TCO logo Dummy PN]  is For all
+Ukraine Carton Label]  is For all
+Mexico Energy Label P360 Tiny]  is For all
+Russia Energy Label P360 Tiny]  is For all
+Workstation BIS mark PN LIPC]  is For all
+India BIS mark label for Workstation for LMH]  is For all
+WS Blank carton label for OEM used]  is For all
+Dummy PN for Workstation OEM combine label]  is For all
+UAE EQM mark label(P/L) for P340 OEM]  is For all
+Indonesia rating label for P340 OEM]  is For all
+Notice for Maritime Environment]  is For all
+BIOS MI for enable FAN FAIL BEEP]  is For all
+France_TRIMAN label(P/L)]  is For all
+Italy Env label]  is For all
+Intel Core i7 vPro S3 12th(C/L)]  is For i7
+Intel Core i5 vPro S3 12th(C/L)]  is For i5
+Intel Core i3 Size3 11th(C/L)]  is For i3
+P360 35W AVC ILM cooler]  is For 35W CPU
+P360 Tiny GPU Self-Insurance]  is For T1000E
+8GB 4800 DDR5 SODIMM]  is For 8GB X1
+16GB 4800 DDR5 SODIMM]  is For 16GB X1
+32GB 4800 DDR5 SODIMM]  is For 32GB X1
+8GB 4800 DDR5 SODIMM]  is For 8GB X2
+16GB 4800 DDR5 SODIMM]  is For 16GB X2
+32GB 4800 DDR5 SODIMM]  is For 32GB X2
+MI System Label 170W Adapter P340 WS]  is For 170W
+MI System Label 230W Adapter P340 WS]  is For 230W
+G_170w_ AIO UMA and TDT IND BIS]  is For 170W
+G_230w_ AIO UMA and TDT IND BIS]  is For 230W
+Enable tpm key]  is For Windows OS
+MB FRU Label for IOT DPK LI]  is For IOT except PRC
+MB FRU Label for IOT DPK DIS DTPM LI]  is For IOT and PRC
+MB FRU Label for NO DPK LI]  is For Linux/ No OS except PRC
+MB FRU Label for NO DPK DIS DTPM LI]  is For Linux/ No OS and PRC
+MB FRU Label for WIN DPK LI]  is For Windows except PRC
+MB FRU Label for WIN DPK DIS DTPM LI]  is For Windows and PRC
+Lenovo Calliope USB Keyboard-Gen2 without Fn+Q driver for win10 IOT]  is For USB Calliope KB and Windows
+MI Vesa mount bracket only without ODD]  is If select Vesa mount but not select ODD, then need derive this MI
+L1 COPT Mexico NOM mark carton label LIPC LI]  is For all configs
+L1 COPT European CE mark carton label]  is For all configs
+L1 COPT China CCC mark carton label]  is For all configs
+L1 COPT China CCC mark carton label MTY]  is For all configs
+TCO markcarton lbl]  is For all configs
+Dummy PN to announce TIO MT for LI (TIO common)  LI]  is For LEGO
+BIOS TCO logo Dummy PN]  is For all configs
+New USB ODD BOX w/ cable kit for Tiny]  is For ODD
+Carton-WS Tiny with ODD for WW]  is For ODD  and no bulk PKG except Chinese mainland
+Carton-WS Tiny with ODD for PRC]  is For ODD  and no bulk PKG Chinese mainland
+G_170w_ AIO UMA and TDT IND BIS]  is For 170W adapter +India
+H_230w_ AIO UMA and TDT IND BIS]  is For 230W adapter +India
+PIPELINE,X_300w_ AIO UMA and TDT IND BIS]  is For 300W adapter +India
+170W adapter rating MI 20V DC 8.5A]  is For 170W adapter
+230W adapter rating MI 20V DC 11.5A]  is For 230W adapter
+300W adapter rating MI 20V DC 15A]  is For 300W adapter
+Intel Core i3 Size3 11th(C/L)]  is For I3 CPU
+Intel Core i9 Size3 11th(C/L)]  is for i9 vpro CPU+non-vpro wifi
+Intel Core i7 Size3 11th(C/L)]  is For i7 vpro CPU+non-vpro wifi
+Intel Core i5 Size3 11th(C/L)]  is For I5 NON-VPRO CPU or i5vpro CPU+non-vpro wifi
+Intel Core i9 vPro S3 12th(C/L)]  is For I9 CPU+vpro wifi/no wifi
+Intel Core i7 vPro S3 12th(C/L)]  is For I7 CPU+vpro wifi/no wifi
+Intel Core i5 vPro S3 12th(C/L)]  is For I5 CPU+vpro wifi/no wifi
+Manufacturing Instructions for MFG 300W Adapter checking]  is For 300W adapter
+P3 Tiny GPU Self-Insurance, A.2 (Design)]  is For T1000
+8GB 4800 DDR5 SODIMM]  is For single 8G
+16GB 4800 DDR5 SODIMM]  is For single 16G
+32GB 4800 DDR5 SODIMM]  is For single 32G
+8GB 4800 DDR5 SODIMM]  is For double 8G
+16GB 4800 DDR5 SODIMM]  is For double 16G
+32GB 4800 DDR5 SODIMM]  is For double 32G
+8GB 5600 DDR5 SODIMM]  is For single 8G 5600
+16GB 5600 DDR5 SODIMM]  is For single 16G 5600
+32GB 5600 DDR5 SODIMM]  is For single 32G 5600
+48GB DDR5 5200 SODIMM]  is For single 48G
+8GB 5600 DDR5 SODIMM]  is For double 8G 5600
+16GB 5600 DDR5 SODIMM]  is For double 16G 5600
+32GB 5600 DDR5 SODIMM]  is For double 32G 5600
+48GB DDR5 5200 SODIMM]  is For double 48G 5600
+SSD should be assembled on M.2 slot1]  is For single SSD
+The larger capacity SSD should be assembled on M.2 slot1]  is For two SSD ：larger capacity SSD should be assembled on M.2 slot1
+Intel AX201NGW  label for Japan]  is For AX201 japan
+Intel AX201NGW  label for EU]  is For AX201 EU
+Intel AX201NGW  label for Israel]  is or AX201 Israel
+Intel AX201NGW  label for Brazil and RN]  is For AX201 Brazil
+Intel AX201NGW  label for USA/Taiwan/Canada/CA Group：(Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Republic Dominican)]  is For AX201 USA/Taiwan/Canada/CA Group：(Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Republic Dominican)
+Intel AX201NGW  label for Korea]  is For AX201 Korea
+Intel AX201NGW label for south Africa]  is For AX201 south Africa
+Intel AX201NGW  label for Malaysia]  is For AX201 Malaysia
+Intel AX201NGW  label for Argentina]  is For AX201 Argentina
+Intel AX201NGW label for UAE]  is for AX201 ship Saudi Arabia and Africa UK and UAE for T model（MT:30H0/30H2） ship UAE only for R model（MT:30H1/30H3）
+AX211NGW Japan label]  is For AX211 Japan
+AX211NGW EU 5GHz label for EU+EFTA+Turkey+Morocco and Tunisia]  is For AX211 EU
+AX211NGW Brazil Label]  is For AX211 Brazil
+AX211NGW USA/Taiwan/Canada/CA Label]  is For AX211 USA/Taiwan/Canada/CA Group：(Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Republic Dominican)
+AX211NGW Korea Label]  is For AX211 Korea
+AX211NGW South Africa Label]  is For AX211 south Africa
+AX211NGW Malaysia label]  is For AX211 Malaysia
+AX211NGW label for Argentina]  is For AX211 Argentina
+UAE_AX211NGW label(PL)]  is for AX211 ship Saudi Arabia and Africa UK and UAE for T model（MT:30H0/30H2） ship UAE only for R model（MT:30H1/30H3）
+RTL8852BE Japan label]  is For 8852BE Japan
+RTL8852BE EU 5GHz label for EU+EFTA+Turkey+Morocco and Tunisia]  is For 8852BE EU
+RTL8852BE Brazil Label]  is For 8852BE Brazil
+RTL8852BE USA/Taiwan/Canada/CA Label]  is For 8852BE USA/Taiwan/Canada/CA Group：(Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Republic Dominican)
+RTL8852BE Korea Label]  is For 8852BE Korea
+RTL8852BE South Africa Label]  is For 8852BE south Africa
+RTL8852BE Malaysia label]  is For 8852BE Malaysia
+RTL8852BE label for Argentina]  is For 8852BE Argentina
+UAE_RTL8852BE label(PL)]  is for RTK8852BE ship Saudi Arabia and Africa UK and UAE for T model（MT:30H0/30H2） ship UAE only for R model（MT:30H1/30H3）
+MI for BCM 5720 Lan card]  is For 2port broadcom card
+MI for BCM 5719 Lan card]  is For 4port broadcom card
+Enable tpm key]  is For windows OS
+MB FRU Label for NO DPK LI]  is For old base with no OS/Ubuntu except Chinese mainland
+MB FRU Label for WIN DPK LI]  is For old base with Windows OS except Chinese mainland
+MB FRU Label for NO DPK DIS DTPM LI]  is For old base with no OS/Ubuntu Chinese mainland
+MB FRU Label for WIN DPK DIS DTPM LI]  is For old base with Windows OS Chinese mainland
+PIPELINE BIOS VT-D process flag]  is For win11 home/pro
+MB FRU Label for NO DPK LI RPL-R]  is For RPL-R base with no OS/Ubuntu except Chinese mainland
+MB FRU Label for WIN DPK LI RPL-R]  is For RPL-R base with Windows OS except Chinese mainland
+MB FRU Label for NO DPK DIS DTPM LI RPL-R]  is For RPL-R base with no OS/Ubuntu Chinese mainland
+MB FRU Label for WIN DPK DIS DTPM LI RPL-R]  is For RPL-R base with Windows OS Chinese mainland
+HW - DVD RW - Power2Go Win11]  is For Windows os+Rambo ODD
+HW - DVD Drive - PowerDVD Win11]  is For Windows OS +rom/Rambo ODD
+HW - DVD RW - Power2Go Win10]  is For DG os+Rambo ODD
+HW - DVD Drive - PowerDVD Win10]  is For DG OS +rom/Rambo ODD
+Lenovo Calliope 2.4G Keyboard-Gen2 without Fn+Q  driver dummy PN]  is For wireless KYB
+AI_Lenovo Calliope USB Keyboard-Gen2 without Fn+Q driver]  is For USB KYB
+Ukraine Carton Label]  is Only for Ru and Ukr
+Energy Star label for product only]  is ROW, WIN11 /WIN10
+AMD Cezanne Ryzen7 5000series(C/L)]  is For R7 5700G
+AMD Cezanne Ryzen5 5000series(C/L)]  is For R5 5600G
+AMD Cezanne Ryzen3 5000series(C/L)]  is For R3 5300G
+AMD Ryzen 7 4000 series label(C/L)]  is For R7 4700G CPU
+AMD Ryzen 5 4000 series label(C/L)]  is For R5 4600G CPU
+AMD Ryzen 3 4000 series label(C/L)]  is For R3 4300G CPU
+PCI Holder Kit for R550X /GTX1660S]  is For R550X
+OB VGA driver]  is For INTEGRATED_GRAPHICS
+AMD VR Heatsink for Cez]  is For RX550X/RX6400
+ODD  SATA cable 310mm 1 latch]  is For ODD
+ODD  SATA power cable(HDD_PWR290mm+ODD_PWR180mm)]  is For ODD
+Slim ODD Bezel Kit  for V55T G2]  is For ODD
+M2 2242 SSD HS]  is For 2242  SSD
+M2 2280 SSD DFC HS]  is For M.2 2280 512G
+M2 2280 SSD HS]  is For 2280 1TG SSD
+Card Reader  Holder Kit]  is For Card Reader
+5B20U54829 FRU MB WIN  DPK]  is For WIN10/WIN11  and integrated graphics and AMD PRO 565
+5B20U54966 FRU MB WIN  DPK W/Heatsink]  is For win10/WIN11 and RX550X/RX6400 and AMD PRO 565
+5B20U54830 FRU MB  NO DPK]  is For NO OS and integrated graphics  and AMD PRO 565
+5B20U54967 FRU MB  NO DPK  W/Heatsink]  is For OS AND RX550X/RX6400  and AMD PRO 565
+5B21M20819  WIN DPK FRU MB P565 MP PLANAR FLX]  is For WIN10/WIN11 and integrated graphics  and PMA MB
+5B21M20820 NO DPK FRU MB V55t P565 MP PLANAR FLX]  is For NO OS and integrated graphics and PMA MB
+Calliope USB KB_Black driver]  is For Calliope USB KB
+USB Fingerprint Mouse Driver]  is For USB Fingerprint Mouse
+PKG KT 17L TW]  is must select
+Quick Reference(EN)V2.7]  is For EN OS
+17L TCM KT R/IO Shielding]  is must select for NO VGA BTB card
+TSK-C3 工厂流程标识]  is must select
+LC Rating MI 220V~, 5A, 50Hz]  is For 300W
+LC Rating MI 220V~, 7A, 50Hz]  is For 500W
+LC Rating MI 220V~, 10A, 50Hz]  is For 750W
+Intel Q670 MB OB VGA driver for TSK-C3]  is For CPU without F and Windows
+17L Rubber cover(DP+HDMI+VGA)]  is For CPU with F
+Intel Core i5 Size3 11th(C/L)]  is For (i5 Non-vPro CPU) or (i5 vPro CPU+Non-vPro WIFI)
+Intel Core i7 Size3 11th(C/L)]  is For (i7 Non-vPro CPU) or (i7 vPro CPU+Non-vPro WIFI)
+Intel Core i9 Size3 11th(C/L)]  is For (i9 Non-vPro CPU) or (i9 vPro CPU+Non-vPro WIFI)
+Intel Core i5 vPro S3 12th(C/L)]  is For (i5 vPro CPU) or (i5 vPro CPU + vPro WIFI)
+Intel Core i7 vPro S3 12th(C/L)]  is For (i7 vPro CPU) or (i7 vPro CPU + vPro WIFI)
+Intel Core i9 vPro S3 12th(C/L)]  is For (i9 vPro CPU) or (i9 vPro CPU + vPro WIFI)
+Dummy PN for MFG detect PCIEX16 slot only support DGFX]  is For all VA
+17L RTX4060ti Holder Kit]  is For 4060TI
+17L RTX4060 Holder Kit]  is For 4060
+17L RTX3050 Holder Kit]  is For 3050
+8GB DDR5 5600 UDIMM]  is For 8X1
+16GB DDR5 5600 UDIMM]  is For 16X1
+32GB DDR5 5600 UDIMM]  is For 32X1
+8GB DDR5 5600 UDIMM]  is For 8X2
+16GB DDR5 5600 UDIMM]  is For 16X2
+32GB DDR5 5600 UDIMM]  is For 32X2
+8GB DDR5 5600 UDIMM]  is For 8X4
+16GB DDR5 5600 UDIMM]  is For 16X4
+32GB DDR5 5600 UDIMM]  is For 32X4
+17L Single ODD Power cable]  is Derived with (ODD without optional 2nd 3.5 HDD bracket) or (optional ODD bracket without optional 2nd 3.5 HDD bracket)
+17L slim ODD/2nd 3.5 HDD SATA cable]  is For ODD or optional ODD bracket
+17L Slim ODD Bezel Kit]  is For ODD
+TSK-C3 CMIIT ID:2024AP0304]  is For TSK with WIFI
+RPL-R P368 CMIIT ID:24J11874D009]  is For P368 with WIFI
+5B21D18198 FRU MB Q670 TSK-C3 PRC DPK]  is For Win11/DG OS
+5B21D18199 FRU MB Q670 TSK-C3 PRC No DPK]  is For No OS/Dos
+5B21D18200 FRU MB Q670 TSK-C3 PRC DPK DFYM]  is For Win11/DG OS EDU
+5B21D18201 FRU MB Q670 TSK-C3 PRC No DPK DFYM]  is For No OS/Dos EDU
+Driver for AI USB Calliope Keyboard Black]  is For USB Calliope Keyboard Black Windows
+Driver for AI Eos 2.4G KM kit Black]  is For  Eos 2.4G KM kit Black Windows
+Package for core2 & aux display W/ Cable Box]  is For Core&Controller with RCM BOX.
+L1 COPT European CE mark carton label]  is For all config.
+CEL EG1 Label]  is For all config.
+Ukraine Carton Label for nano]  is For all config.
+Nano carton label]  is For all config.
+nano Carton label for OEM Only]  is For all config.
+UAE EQM mark label for OEM]  is For all config.
+135W adapter rating MI 20V DC 6.75A]  is For 135W adapter.
+Core MFG printing Lable OEM]  is For all config.
+FRU MB for MTL-H UTL7 wo HDMI IN wo BYOM IOT DPK WW]  is For UTL7 wo HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL7 wo HDMI IN wo BYOM IOT DPK PRC]  is For UTL7 wo HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL5 wo HDMI IN wo BYOM IOT DPK WW]  is For UTL5 wo HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL5 wo HDMI IN wo BYOM IOT DPK PRC]  is For UTL5 wo HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+Japan C5 Line Core for IP controller]  is For IP controller+Japan.
+India C5 Line Core for IP controller]  is For IP controller+Bangladesh, India, Sri_lanka.
+Korea C5 Line Core for IP controller]  is For IP controller+Korea.
+Taiwan C5 Line Core for IP controller]  is For IP controller+Taiwan.
+China C5 Line Core for IP controller]  is For IP controller+Chinese_Mainland.
+Brazil C5 Line Core for IP controller]  is For IP controller+Brazil.
+Argentina C5 Line Core for IP controller]  is For IP controller+Argentina, Uruguay.
+Australia C5 Line Core for IP controller]  is For IP controller+Australia,New Zealand.
+Denmark C5 Line Core for IP controller]  is For IP controller+Denmark.
+switerzerland C5 Line Core for IP controller]  is For IP controller+Switzerland.
+Israel C5 Line Core for IP controller]  is For IP controller+Israel.
+Europe C5 Line Core for IP controller]  is For IP controller+Africa_French_Portuguese, Algeria, Austria, Belgium, Bulgaria, Cambodia_Laos, CIS, Croatia, Czech_Slovakia, Egypt, Estonia_Latvia_Lithuania, Finland, France, Germany, Greece, Hungary, Iceland, Indonesia, Lebanon, Luxembourg, Morocco, Mozambique, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovenia, South_East_Europe, Spain, Sweden, Turkyie, Ukraine, Vietnam.
+US C5 Line Core for IP controller]  is For IP controller+Belize, Boliva, Canada, Caribbean_Group, Colombia, Costa_Rica, Dominican_Republic, Ecuador, El_Salvador, Guatemla, Hondras, Mexico, Nicaragua, Panama, Paraguay, Peru, Philippines, TAA, USA, Venezuela.
+Thailand C5 Line Core for IP controller]  is For IP controller+Thailand.
+Italy C5 Line Core for IP controller]  is For IP controller+Italy,Chile.
+South Africa C5 Line Core for IP controller]  is For IP controller+South Africa.
+UK C5 Line Core for IP controller]  is For IP controller+Afriaca_UK, Brunei, Cyprus, Hong_Kong, Ireland, Malaysia, Middle_East, Middle_East_EM, Pakistan, Saudi_Arabia, Singapore, UAE, UK.
+Nordics C5 Line Core for IP controller]  is For IP controller+Nordics.
+MI Vesa mount bracket only without ODD]  is The MI "Vesa mount bracket only without ODD" need provide when user choosed "VESA Mount bracket kit for Tiny" but no need any external Box(ODD box/IO box/batteryBox).
+Core Gen2 MTL 28W CPU thermal part]  is For all config.
+DT&AIO Common 89% 45W adapter for IP Controller]  is For IP Controller.
+Teams Certification Cost Recovery]  is For all config.
+EU battery warning- carton label]  is For all config.
+Core2 Dummy PN  for Setting MTR SMBIS OEM String]  is For all config.
+Italy Env label with LDPE4]  is For Core+IP Controller.
+Italy Env label chassis + (FXN) controller]  is For Core+USB Controller.
+China CCC standard Carton LBL]  is For all config.
+8GB DDR5 5600 SoDIMM]  is For 8GB*2.
+16GB DDR5 5600 SoDIMM]  is For 16GB*2.
+Intel AX211 WIFI MFG Printing Label OEM]  is For AX211.
+Intel AX211NGW label for UAE]  is For AX211.
+Enable tpm key]  is For WIN OS.
+Package for core2 only W/ Cable Box]  is For Core Only with RCM BOX.
+L1 COPT European CE mark carton label]  is For all config.
+CEL EG1 Label]  is For all config.
+Ukraine Carton Label for nano]  is For all config.
+Nano carton label]  is For all config.
+nano Carton label for OEM Only]  is For all config.
+UAE EQM mark label for OEM]  is For all config.
+135W adapter rating MI 20V DC 6.75A]  is For 135W adapter.
+170W adapter rating MI 20V DC 8.5A]  is For 170W adapter.
+Core MFG printing Lable OEM]  is For all config.
+Intel vPro ENT Label(2023)]  is For ULT5/7 CPU.
+FRU MB for MTL-H UTL7 wo HDMI IN wo BYOM IOT DPK WW]  is For UTL7 wo HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL7 wo HDMI IN wo BYOM IOT DPK PRC]  is For UTL7 wo HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL7 w/ HDMI IN wo BYOM IOT DPK WW]  is For UTL7 w/ HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL7 w/ HDMI IN wo BYOM IOT DPK PRC]  is For UTL7 w/ HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL7 w/ HDMI IN w/ BYOM IOT DPK WW]  is For UTL7 w/ HDMI IN w/ BYOM+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL7 w/ HDMI IN w/ BYOM IOT DPK PRC]  is For UTL7 w/ HDMI IN w/ BYOM+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL5 wo HDMI IN wo BYOM IOT DPK WW]  is For UTL5 wo HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL5 wo HDMI IN wo BYOM IOT DPK PRC]  is For UTL5 wo HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL5 w/ HDMI IN wo BYOM IOT DPK WW]  is For UTL5 w/ HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL5 w/ HDMI IN wo BYOM IOT DPK PRC]  is For UTL5 w/ HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL5 w/ HDMI IN w/ BYOM IOT DPK WW]  is For UTL5 w/ HDMI IN w/ BYOM+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL5 w/ HDMI IN w/ BYOM IOT DPK PRC]  is For UTL5 w/ HDMI IN w/ BYOM+WIN11 IOT+Chinese_Mainland.
+EU battery warning- carton label]  is For all config.
+Italy Env label with LDPE4]  is For Core only.
+China CCC standard Carton LBL]  is For all config.
+Core2 Dummy PN  for Setting MTR SMBIS OEM String]  is For all config.
+MI Vesa mount bracket only without ODD]  is The MI "Vesa mount bracket only without ODD" need provide when user choosed "VESA Mount bracket kit for Tiny" but no need any external Box(ODD box/IO box/batteryBox).
+Core Gen2 MTL 28W CPU thermal part]  is For all config.
+Teams Certification Cost Recovery]  is For all config.
+8GB DDR5 5600 SoDIMM]  is For 8GB*2.
+16GB DDR5 5600 SoDIMM]  is For 16GB*2.
+Intel AX211 WIFI MFG Printing Label OEM]  is For AX211.
+Intel AX211 WIFI CL for OEM Only]  is For AX211.
+Intel AX211NGW label for UAE]  is For AX211.
+Enable tpm key]  is For WIN OS.
+CEL EG1 Label]  is required for TSK-C2
+Product info label_black(China)]  is required
+Lenovo DT Carton label]  is required
+Chassis Seal Label 48*15mm_N]  is required
+Exclusive service QR Code]  is required
+SWG V1.2 SC]  is required
+Quick Reference(EN)V2.7]  is required for EN OS
+PKG KT 17L TW]  is required
+L1-17L TCM KT R/IO Shielding]  is required
+M800t 工厂流程标识]  is required
+LC Rating MI 220V~, 5A, 50Hz]  is For 300W
+LC Rating MI 220V~, 7A, 50Hz]  is For 500W
+LC Rating MI 220V~, 10A, 50Hz]  is For 750W
+Intel Core i9 Size3 11th(C/L)]  is for 12th i9 CPU
+Intel Core i7 Size3 11th(C/L)]  is for 12th i7 CPU
+Intel Core i5 Size3 11th(C/L)]  is for 12th i5 CPU
+L1-17L RTX3060 Holder Kit]  is For 3060
+L1-17L RTX1660 supper Holder Kit]  is For 1660SP
+L1-17L RX6500XT Holder]  is For 6500
+17L RTX3050 Holder]  is For 3050
+4GB DDR4 3200 UDIMM]  is For 4GB x1
+8GB DDR4 3200 UDIMM]  is For 8GB x1
+16GB DDR4 3200 UDIMM]  is For 16GB x1
+32GB DDR4 3200 UDIMM]  is For 32GB x1
+4GB DDR4 3200 UDIMM]  is For 4GBx2
+8GB DDR4 3200 UDIMM]  is For 8GBx2
+16GB DDR4 3200 UDIMM]  is For 16GBx2
+32GB DDR4 3200 UDIMM]  is For 32GBx2
+4GB DDR4 3200 UDIMM]  is For 4GBx4
+8GB DDR4 3200 UDIMM]  is For 8GB x4
+16GB DDR4 3200 UDIMM]  is For 16 GB x4
+32GB DDR4 3200 UDIMM]  is For 32 GB x4
+17L 2nd ODD/3.5 HDD SATA Cable]  is Derived with ODD or optional ODD bracket
+17L Single ODD Power cable]  is derived with ODD without optional 2nd 3.5 HDD bracket or optional ODD bracket without optional 2nd 3.5 HDD bracket
+L1-17L Slim ODD Bezel Kit]  is For ODD
+M2 2242 SSD HeatSink]  is FOR M.2 2242 256GB SSD
+TSK-C2 CMIIT ID:2021AP13290]  is For TSK-C2
+P368 CMIIT ID:2023AP6137]  is For P368
+FRU MB Q670 TSK-C2 PRC No DPK]  is For Dos
+FRU MB Q670 TSK-C2 PRC DPK]  is For Win OS
+Driver for USB Fingerprint Mouse Dummy PN]  is For USB Fingerprint Mouse
+Driver for Lenovo Eos 2.4G Keyboard-with Fn+Q]  is For EOS wireless
+Driver for USB Calliope Black Keyboard]  is For USB Calliope KB
+Quick Reference(EN)V2.7]  is required for ENG OS
+PKG KT 17L TW]  is required
+L1-17L TCM KT R/IO Shielding]  is required
+TSK-C2  RPL  工厂流程标识]  is required
+LC Rating MI 220V~, 5A, 50Hz]  is For 300w
+LC Rating MI 220V~, 7A, 50Hz]  is For 500w
+LC Rating MI 220V~, 10A, 50Hz]  is For 750w
+CEL EG1 Label]  is For TSK-C2
+Intel Q670 MB OB VGA driver for TSK-C2]  is For CPU without F and Windows
+L1-17L Rubber cover(DP+HDMI+VGA)]  is For CPU with F
+Intel Core i9 Size3 11th(C/L)]  is For I9 Non-Vpro CPU OR  i9 vpro+8852BE WIFI
+Intel Core i7 Size3 11th(C/L)]  is For I7 Non-Vpro CPU OR  i7 vpro+8852BE WIFI
+Intel Core i5 Size3 11th(C/L)]  is For I5 Non-Vpro CPU OR  i5 Vpro CPU+8852BE WIFI
+Intel Core i9 vPro S3 12th(C/L)]  is For i9 Vpro+vpro wifi/non wifi
+Intel Core i7 vPro S3 12th(C/L)]  is For i7 Vpro+vpro wifi/non wifi
+Intel Core i5 vPro S3 12th(C/L)]  is For i5 Vpro +vpro wifi/ non wifi
+Dummy PN for MFG detect PCIEX16 slot only support DGFX]  is For VA
+17L RTX3050 Holder]  is For 3050
+RTX4060/GTX1660S holder]  is For GTX1660Super/RTX4060
+L1-17L RTX3060 Holder Kit]  is For RTX3060
+4GB DDR4 3200 UDIMM]  is For 4GB x1
+8GB DDR4 3200 UDIMM]  is For 8GB x1
+16GB DDR4 3200 UDIMM]  is For 16GB x1
+32GB DDR4 3200 UDIMM]  is For 32GB x1
+4GB DDR4 3200 UDIMM]  is For 4GB x2
+8GB DDR4 3200 UDIMM]  is For 8GB x2
+16GB DDR4 3200 UDIMM]  is For 16GB x2
+32GB DDR4 3200 UDIMM]  is For 32GB x2
+4GB DDR4 3200 UDIMM]  is For 4GB x4
+8GB DDR4 3200 UDIMM]  is For 8GB x4
+16GB DDR4 3200 UDIMM]  is For 16GB x4
+32GB DDR4 3200 UDIMM]  is For 32GB x4
+17L Single ODD Power cable]  is derived with ODD without optional 2nd 3.5 HDD bracket or optional ODD bracket without optional 2nd 3.5 HDD bracket
+Dummy PN for option ODD bracket]  is For ODD Bracket but don't select ODD
+TSK -C2 RPL  CMIIT ID:2021AP13290]  is For TSK-C2
+TSK  P368  CMIIT ID:2023AP6137]  is For P368
+Non-DPK FRU MB Q670 QTM650/M800t]  is For NO OS
+DPK FRU MB Q670 M800t&TSK C2 RPL  LBV4.0]  is For win 11
+Non-DPK EDU FRU MB Q670 QTM650/M800t]  is For NO OS + EDU
+DPK EDU FRU MB Q670 QTM650/M800t]  is For  win11+EDU
+Driver for USB Calliope Black Keyboard]  is For  USB Calliope Black Keyboard AND win
+Driver for Lenovo Eos 2.4G Keyboard-with Fn+Q]  is For Eos 2.4G Keyboard AND win
+package for view plus]  is for all config
+27" LVDS FHD panel with USB touch glass and LVDS cable kit]  is for all config
+system label for View plus]  is for all config
+Carton label for View Plus]  is for all config
+MB FRU label for Android]  is For all
+UG sticker]  is For all config
+PKG for TS Tiny and ThinkSmart Controller]  is For Base
+Screw L2 -Tiny9 system used screw]  is For Base
+MI Vesa mount bracket only without ODD]  is For VESA Mount kit
+Think Smart Brand sticker]  is For Base
+L1 COPT Mexico NOM mark carton label LIPC LI]  is For all
+L1 COPT European CE mark carton label]  is For all
+L1 COPT China CCC mark carton label]  is For all
+Intel Core i3 Size3 11th(C/L)]  is For  I3 cpu
+Tiny8 35W ILM cooler kit]  is For 35w cpu
+8GB 3200 DDR4 SODIMM]  is For 2x8G
+90W adapter rating MI 20V DC 4.5A]  is derived with 90W Adapter
+Enable tpm key]  is For Windows
+FRU TS Tiny MB Q670 PRC IoT DPK]  is For  WIN11 IOT  and PRC
+FRU TS Tiny MB Q670 WW IoT DPK]  is For WIN11 IOT and WW
+I TGL 28W CPU HS CM]  is For MB
+package for ThinkSmart One]  is For all config
+Intel Core i5 Size3 11th(C/L)]  is For I5 CPU
+MB FRU Label for IOT DPK WW]  is For 8G MB IOT OS except Chinese mainland
+MB FRU Label for DIS D-TPM IOT DPK LC]  is For 8G MB IOT OS  Chinese mainland
+MI for TS one rating printing for 135W Adapter]  is For 135W adapter
+Teams Certification Cost Recovery]  is For MTR base
+ThinkSmart ONE SWG WW]  is For except Israel TS controller
+ThinkSmart ONE SWG WW IP]  is For WW except lsrael IP controller
+ThinkSmart One SWG Hebrew]  is For Israel+TS controller/Israel IP controller
+FU420_THM_PAD]  is For all config
+User Guide Sticker for WW]  is For all config
+think smart carton label]  is For all config
+Japan C5 Line Core for IP controller]  is For IP controller+Japan
+India C5 Line Core for IP controller]  is For IP controller+BANGLADESH ,INDIA ,SRI_LANKA,
+Korea C5 Line Core for IP controller]  is For IP controller+Korea
+Taiwan C5 Line Core for IP controller]  is For IP controller+taiwan
+China C5 Line Core for IP controller]  is For IP controller+CHINESE_MAINLAND
+Brazil C5 Line Core for IP controller]  is For IP controller+BRAZIL,
+Argentina C5 Line Core for IP controller]  is For IP controller+ARGENTINA ,URUGUAY
+Australia C5 Line Core for IP controller]  is For IP controller+AUSTRALIA ,NEW_ZEALAND
+Denmark C5 Line Core for IP controller]  is For IP controller+DENMARK
+switerzerland C5 Line Core for IP controller]  is For IP controller+SWITZERLAND
+Israel C5 Line Core for IP controller]  is For IP controller+ISRAEL
+Europe C5 Line Core for IP controller]  is For IP controller+AFRICA_FRENCH_PORTUGUESE ,ALGERIA ,AUSTRIA ,BELGIUM ,BULGARIA ,CIS ,CROATIA ,CZECH_SLOVAKIA ,EGYPT ,ESTONIA_LATVIA_LITHUANIA ,FINLAND ,FRANCE ,GERMANY ,GREECE ,HUNGARY ,ICELAND ,INDONESIA ,LEBANON ,LUXEMBOURG ,MOROCCO ,MOZAMBIQUE ,NETHERLANDS ,NORWAY ,POLAND ,PORTUGAL ,ROMANIA ,RUSSIA ,SERBIA ,SLOVENIA ,SOUTH_EAST_EUROPE ,SPAIN ,SWEDEN ,TURKEY ,UKRAINE ,VIETNAM,cambodia laos,
+US C5 Line Core for IP controller]  is For IP controller+BELIZE ,BOLIVIA ,CANADA ,COLOMBIA ,COSTA_RICA ,DOMINICAN_REPUBLIC ,ECUADOR ,EL_SALVADOR ,GUATEMALA ,HONDURAS ,MEXICO ,NICARAGUA ,PANAMA ,PARAGUAY ,PERU ,PHILIPPINES ,TAA ,USA ,VENEZUELA
+Thailand C5 Line Core for IP controller]  is For IP controller+THAILAND
+Italy C5 Line Core for IP controller]  is For IP controller+CHILE ,ITALY
+South Africa C5 Line Core for IP controller]  is For IP controller+SOUTH_AFRICA
+UK C5 Line Core for IP controller]  is For IP controller+AFRICA_UK ,BRUNEI ,CYPRUS ,HONG_KONG ,IRELAND ,MALAYSIA ,MIDDLE_EAST ,MIDDLE_EAST_EM ,PAKISTAN ,SAUDI_ARABIA ,SINGAPORE ,UAE ,UK,
+Nordics C5 Line Core for IP controller]  is For IP controller+NORDICS
+DT&AIO Common 89% 45W adapter]  is For IP controller
+Italy Env label One + (FXN) controller]  is For italy+TS controller
+Italy Env label]  is For Italy + IP contorller
+MB FRU Label for IOT DPK WW 16G]  is For 16G MB except Chinese mainland
+MB FRU Label for DIS D-TPM IOT DPK LC 16G]  is For 16G MB Chinese mainland only
+BAG FOR POWER CORD for nordics]  is For IP controller+nordics
+AX210NGW Brazil Label]  is For AX210NGW Brazil
+AX210NGW Malaysia label]  is For AX210NGW Malaysia
+AX210NGW label for Argentina]  is For AX210NGW  Argentina
+AX210 wifi label for Japan]  is For AX210 wifi l Japan
+AX210NGW USA/Taiwan/Canada/CA Label]  is For AX210NGW USA/Taiwan/Canada/CA
+AX210NGW South Africa Label（CL）]  is For AX210NGW South Africa
+Package for core only]  is For core only
+Package for core & aux display(with HDMI IN)]  is For core & aux display(with HDMI IN)
+L1 COPT Mexico NOM mark carton label LIPC LI]  is For all config
+L1 COPT European CE mark carton label]  is For all config
+Ultra Low Noise for DT(P/L)]  is For all config
+Taiwan Warning label]  is For all config
+Nano carton label]  is For all config
+nano Carton label for OEM Only]  is For all config
+LABEL China CCC mark carton lbl ODM]  is For all config
+Argentina label for 90W adapter]  is For for 90w adapter
+India BIS Machine Type print U for UMA /India]  is For all config
+UAE EQM mark label for OEM]  is For all config
+Intel Core i5 Size3 11th(C/L)]  is For I5 CPU MB
+Ukraine Carton Label]  is For aii config
+MB FRU Label for IOT DPK WW]  is For SAC IOT OS except Chinese mainland
+MB FRU Label for DIS D-TPM IOT DPK LC]  is For SAC IOT OS+Chinese mainland
+ThinkSmart core Russia label(P/L)]  is For all config
+Core Pub Group WW]  is For core only except Israel，（notice：updates require EC write rules）
+Core Pub Group Hebrew]  is For core only Israel（notice：updates require EC write rules）
+Core Kit Pub Group WW]  is For core kit WW except Israel
+Core Kit Pub Group Hebrew]  is For Core Kit Israel
+Zelda 28W TGL CPU thermal part]  is For all config
+MI for TS core rating printing for 90W Adapter]  is For adapter
+Conferencing Device India only]  is For all config
+Teams Certification Cost Recovery]  is For all config
+Dummy PN for OEM core logo printing]  is For all config
+CEL EG1 Label]  is For all config
+MB FRU Label for WIN DPK WW]  is For without HDMI + win10 pro OS not for Chinese mainland
+MB FRU Label for DIS D-TPM WIN DPK LC]  is For without HDMI + win10 pro OS for Chinese mainland only
+MB FRU Label for IOT DPK WW V2]  is For V2 MB except Chinese mainland
+MB FRU Label for DIS D-TPM IOT DPK LC V2]  is For V2 Chinese mainland
+MB FRU Label for WIN DPK WW]  is For without HDMI V2+ win10 pro OS not for Chinese mainland
+MB FRU Label for DIS D-TPM WIN DPK LC]  is For without HDMI V2 + win10 pro OS for Chinese mainland only
+MB FRU Label for IOT DPK i5-1145G7E 16G WW]  is For 16G MB IOT OS except Chinese mainland
+MB FRU Label for DIS D-TPM IOT DPK i5-1145G7E 16G PRC]  is For 16G MB IOT OS Chinese mainland
+Italy Env label]  is For core only or core+IP controller
+Italy Env label chassis + (FXN) controller]  is For core+TS controller
+Japan C5 Line Core for IP controller]  is For v2 controller Japan
+India C5 Line Core for IP controller]  is For v2 controller+BANGLADESH ,INDIA ,SRI_LANKA,
+Korea C5 Line Core for IP controller]  is For v2 controller+Korea
+Taiwan C5 Line Core for IP controller]  is For v2 controller+taiwan
+China C5 Line Core for IP controller]  is For v2 controller+Chinese mainland
+Brazil C5 Line Core for IP controller]  is For v2 controller+Brazil
+Argentina C5 Line Core for IP controller]  is For v2 controller+ARGENTINA ,URUGUAY
+Australia C5 Line Core for IP controller]  is For V2 controller+AUSTRALIA ,NEW_ZEALAND
+Denmark C5 Line Core for IP controller]  is For V2 controller+DENMARK
+switerzerland C5 Line Core for IP controller]  is For V2 controller+SWITZERLAND
+Israel C5 Line Core for IP controller]  is For V2 controller+ISRAEL
+Europe C5 Line Core for IP controller]  is For V2 controller+AFRICA_FRENCH_PORTUGUESE ,ALGERIA ,AUSTRIA ,BELGIUM ,BULGARIA ,CIS ,CROATIA ,CZECH_SLOVAKIA ,EGYPT ,ESTONIA_LATVIA_LITHUANIA ,FINLAND ,FRANCE ,GERMANY ,GREECE ,HUNGARY ,ICELAND ,INDONESIA ,LEBANON ,LUXEMBOURG ,MOROCCO ,MOZAMBIQUE ,NETHERLANDS ,NORWAY ,POLAND ,PORTUGAL ,ROMANIA ,RUSSIA ,SERBIA ,SLOVENIA ,SOUTH_EAST_EUROPE ,SPAIN ,SWEDEN ,TURKEY ,UKRAINE ,VIETNAM,cambodia laos,
+US C5 Line Core for IP controller]  is For V2 controller+BELIZE ,BOLIVIA ,CANADA ,COLOMBIA ,COSTA_RICA ,DOMINICAN_REPUBLIC ,ECUADOR ,EL_SALVADOR ,GUATEMALA ,HONDURAS ,MEXICO ,NICARAGUA ,PANAMA ,PARAGUAY ,PERU ,PHILIPPINES ,TAA ,USA ,VENEZUELA
+Thailand C5 Line Core for IP controller]  is For V2 controller+THAILAND
+Italy C5 Line Core for IP controller]  is For V2 controller+CHILE ,ITALY
+South Africa C5 Line Core for IP controller]  is For V2 controller+SOUTH_AFRICA
+UK C5 Line Core for IP controller]  is For V2 controller+AFRICA_UK ,BRUNEI ,CYPRUS ,HONG_KONG ,IRELAND ,MALAYSIA ,MIDDLE_EAST ,MIDDLE_EAST_EM ,PAKISTAN ,SAUDI_ARABIA ,SINGAPORE ,UAE ,UK,
+Nordics C5 Line Core for IP controller]  is For V2 controller+NORDICS
+DT&AIO Common 89% 45W adapter]  is For IP controller
+Core Kit with IP Controller Pub Group WW]  is For IP Controller WW except Israel
+Core Kit with IP Controller Pub Group Hebrew]  is For IP Controller and Israel
+RF Flyer (EU & United Kingdom only)]  is For IP Controller EU and UK（France/Germany/Italy/NETHERLANDS/GREECE/BELGIUM/LUXEMBOURG/SPAIN/CZECH_REPUBLIC/POLAND/PORTUGAL/ AUSTRIA/BULGARIA/SWEDEN/DENMARK/FINLAND/SLOVAKIA/IRELAND/CROATIA/CROATIA_SLOVENIA/SlOVENIA/CYPRUS/ ESTONIA_LATVIA_LITHUANIA/HUNGARY/Ukrine/UK(United Kingdom)）
+Intel 9260  WIFI MFG Printing Label OEM]  is For 9260 wifi
+Intel 9260 WIFI CL for OEM Only]  is For 9260 wifi
+UAE_9260NGW label(PL) (MGS)]  is For 9260 wifi
+Intel AX201NGW label for UAE]  is For AX201 wifi card
+Intel AX201 WIFI MFG Printing Label OEM]  is For AX201 wifi card
+Intel AX201 WIFI CL for OEM Only]  is For AX201 wifi card
+L1 COPT European CE mark carton label]  is For all config.
+Nano carton label]  is For all config.
+135W adapter rating MI 20V DC 6.75A]  is For 135W adapter.
+170W adapter rating MI 20V DC 8.5A]  is For 170W adapter.
+Intel vPro ENT Label(2023)]  is For ULT5/7 CPU.
+FRU MB for MTL-H UTL7 wo HDMI IN wo BYOM IOT DPK WW]  is For UTL7 wo HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL7 wo HDMI IN wo BYOM IOT DPK PRC]  is For UTL7 wo HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL7 w/ HDMI IN wo BYOM IOT DPK WW]  is For UTL7 w/ HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL7 w/ HDMI IN wo BYOM IOT DPK PRC]  is For UTL7 w/ HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL7 w/ HDMI IN w/ BYOM IOT DPK WW]  is For UTL7 w/ HDMI IN w/ BYOM+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL7 w/ HDMI IN w/ BYOM IOT DPK PRC]  is For UTL7 w/ HDMI IN w/ BYOM+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL5 wo HDMI IN wo BYOM IOT DPK WW]  is For UTL5 wo HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL5 wo HDMI IN wo BYOM IOT DPK PRC]  is For UTL5 wo HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL5 w/ HDMI IN wo BYOM IOT DPK WW]  is For UTL5 w/ HDMI IN wo BYOM MB+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL5 w/ HDMI IN wo BYOM IOT DPK PRC]  is For UTL5 w/ HDMI IN wo BYOM MB+WIN11 IOT+Chinese_Mainland.
+FRU MB for MTL-H UTL5 w/ HDMI IN w/ BYOM IOT DPK WW]  is For UTL5 w/ HDMI IN w/ BYOM+WIN11 IOT+WW Country.
+FRU MB for MTL-H UTL5 w/ HDMI IN w/ BYOM IOT DPK PRC]  is For UTL5 w/ HDMI IN w/ BYOM+WIN11 IOT+Chinese_Mainland.
+Japan C5 Line Core for IP controller]  is For IP controller&JAPAN.
+India C5 Line Core for IP controller]  is For IP controller&BANGLADESH ,INDIA ,SRI_LANKA.
+Korea C5 Line Core for IP controller]  is For IP controller&KOREA.
+Taiwan C5 Line Core for IP controller]  is For IP controller&TAIWAN.
+China C5 Line Core for IP controller]  is For IP controller&CHINESE_MAINLAND.
+Brazil C5 Line Core for IP controller]  is For IP controller&BRAZIL.
+Argentina C5 Line Core for IP controller]  is For IP controller&ARGENTINA ,URUGUAY.
+Australia C5 Line Core for IP controller]  is For IP controller&AUSTRALIA ,NEW_ZEALAND.
+Denmark C5 Line Core for IP controller]  is For IP controller&DENMARK.
+switerzerland C5 Line Core for IP controller]  is For IP controller&SWITZERLAND.
+Israel C5 Line Core for IP controller]  is For IP controller&ISRAEL.
+Europe C5 Line Core for IP controller]  is For IP controller&AFRICA_FRENCH_PORTUGUESE ,ALGERIA ,AUSTRIA ,BELGIUM ,BULGARIA CAMBODIA_LAOS,CIS ,CROATIA ,CZECH_SLOVAKIA ,EGYPT ,ESTONIA_LATVIA_LITHUANIA ,FINLAND ,FRANCE ,GERMANY ,GREECE ,HUNGARY ,ICELAND ,INDONESIA ,LEBANON ,LUXEMBOURG ,MOROCCO ,MOZAMBIQUE ,NETHERLANDS ,NORWAY ,POLAND ,PORTUGAL ,ROMANIA ,RUSSIA ,SERBIA ,SLOVENIA ,SOUTH_EAST_EUROPE ,SPAIN ,SWEDEN ,TURKEY ,UKRAINE ,VIETNAM.
+US C5 Line Core for IP controller]  is For IP controller&BELIZE ,BOLIVIA ,CANADA ,CARIBBEAN_GROUP ,COLOMBIA ,COSTA_RICA ,DOMINICAN_REPUBLIC ,ECUADOR ,EL_SALVADOR ,GUATEMALA ,HONDURAS ,MEXICO ,NICARAGUA ,PANAMA ,PARAGUAY ,PERU ,PHILIPPINES ,TAA ,USA ,VENEZUELA.
+Thailand C5 Line Core for IP controller]  is For IP controller&THAILAND.
+Italy C5 Line Core for IP controller]  is For IP controller&CHILE ,ITALY.
+South Africa C5 Line Core for IP controller]  is For IP controller&SOUTH_AFRICA.
+UK C5 Line Core for IP controller]  is For IP controller+AFRICA_UK ,BRUNEI ,CYPRUS ,HONG_KONG ,IRELAND ,MALAYSIA ,MIDDLE_EAST ,MIDDLE_EAST_EM ,PAKISTAN ,SAUDI_ARABIA ,SINGAPORE ,UAE ,UK.
+Nordics C5 Line Core for IP controller]  is For IP controller&NORDICS.
