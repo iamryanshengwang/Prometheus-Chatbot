@@ -1,1 +1,1 @@
-# Neo4j-Knowledge-Graph-for-CPU
+# Neo4j-Knowledge-Graph
