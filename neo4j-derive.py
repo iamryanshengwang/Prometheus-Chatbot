@@ -123,7 +123,7 @@ def create_only_for(g, args):
             relationship = Relationship(node2, "should", node1)
             g.create(relationship)
             
-def streamlit_neo4j():
+def streamlit_neo4j(g):
     st.title("Neo4j Graph Data")
     search_term = st.text_input("Enter search term:")
     if search_term:
@@ -158,7 +158,7 @@ def main():
     onlyfor_rules_args = read_derive_onlyfor_rules()
     create_derived(g, derived_rules_args)
     create_only_for(g, onlyfor_rules_args)
-    streamlit_neo4j() 
+    streamlit_neo4j(g) 
 
 if __name__ == '__main__':
     main()
