@@ -2,13 +2,13 @@ import pandas as pd
 from py2neo import Graph, Node, Relationship
 
 
-def get_projectname():
-    g = Graph('http://localhost:7474', auth=('neo4j', 'ys1203303'), name='allkg')
-    cypher = 'match (n) return n.projectname'
-    result = g.run(cypher)
-    df = pd.DataFrame(result.data())
-    projectname = df['n.projectname'].unique()
-    return projectname
+# def get_projectname():
+#     g = Graph('http://localhost:7474', auth=('neo4j', 'ys1203303'), name='allkg')
+#     cypher = 'match (n) return n.projectname'
+#     result = g.run(cypher)
+#     df = pd.DataFrame(result.data())
+#     projectname = df['n.projectname'].unique()
+#     return projectname
 
 
 # def get_KG_value():
