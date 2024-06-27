@@ -1,9 +1,9 @@
 import pandas as pd
-from py2neo import Graph
+from py2neo import Graph, Node, Relationship
 
 
 def get_projectname():
-    g = Graph('http://10.184.41.18:7474', auth=('neo4j', '12345678'), name='neo4j')
+    g = Graph('http://localhost:7474', auth=('neo4j', 'ys1203303'), name='allkg')
     cypher = 'match (n) return n.projectname'
     result = g.run(cypher)
     df = pd.DataFrame(result.data())
@@ -31,7 +31,7 @@ def get_projectname():
 
 
 def search_rule_cross_project(entity, projectname):
-    g = Graph('http://10.184.41.18:7474', auth=('neo4j', '12345678'), name='neo4j')
+    g = Graph('http://localhost:7474', auth=('neo4j', 'ys1203303'), name='allkg')
     if projectname and projectname != 'All':
         projectname = projectname.replace("(", "\\(").replace(")", "\\)")
     else:
